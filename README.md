@@ -8,6 +8,8 @@ Logo靈感來源於 ProgrammingVTuberLogos / GitHub@Aikoyori
 
 ---
 
+[開發日誌](ChangeLog.md)
+
 開發語言：Swift 5
 
 系統需求
